@@ -1,0 +1,172 @@
+/* 
+    Created on : 14/06/2016, 19:49:05
+    Author     : Daniel
+*/
+
+
+/*RESETS*/
+
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus, .navbar-default .navbar-nav>.open>a:hover {
+  background-color: #D80027 !important;
+}
+
+* {
+  border-radius: 0px !important
+}
+
+body {
+  font-family: 'Jaldi', sans-serif !important;
+}
+
+.menu {
+  padding: 1.1%;
+  background: transparent !important;
+  color: #FFF !important;
+  border: none !important
+}
+
+.menu2 {
+  padding: 1.1%;
+  background: #16191E !important;
+  color: #FFF !important;
+  border: none !important
+}
+
+.navbar a {
+  color: #FFF !important;
+  font-size: 1.2em
+}
+
+.navbar a:hover, .active {
+  background: #FE9901 !important;
+  transition: ease-in-out 0.51s;
+}
+
+.navbar li ul {
+  background: #C84648
+}
+
+.cor-rodape {
+  background: #383737;
+  padding: 0.5% 0%;
+  border-top: 8px solid #FE9901
+}
+
+.dev {
+  color: #E7E4D5
+}
+
+.separador {
+  margin: 2%
+}
+
+
+/*MANUTENÇÃO*/
+
+.manutencao {
+  background: url("../image/destaque/party.jpg") center center no-repeat;
+  width: 100%;
+  padding-top: 25%;
+  padding-bottom: 22%
+}
+
+
+/*REDES SOCIAIS*/
+
+.rede-social {
+  padding: 5% 20% !important;
+  margin: 1.9%;
+  color: #FFF !important;
+  font-weight: bold !important
+}
+
+button.rede-social:hover {
+  padding: 5% 20% !important;
+  color: #FFF !important;
+  font-weight: bold
+}
+
+.fb {
+  background: #3B5998 !important
+}
+
+.fb:hover {
+  background: #2F47AD !important
+}
+
+.wp {
+  background: #4DC658 !important;
+}
+
+.wp:hover {
+  background: #17A63E !important;
+}
+
+.gplus {
+  background: #DC4B3F !important
+}
+
+.gplus:hover {
+  background: #BA2620 !important
+}
+
+.insta {
+  border: none !important;
+  background: #fdcd71;
+  background: -moz-linear-gradient(45deg, #fdcd71 10%, #e8445a 49%, #e8445a 49%, #764ac3 91%, #764ac3 91%) !important;
+  background: -webkit-linear-gradient(45deg, #fdcd71 10%, #e8445a 49%, #e8445a 49%, #764ac3 91%, #764ac3 91%) !important;
+  background: linear-gradient(45deg, #fdcd71 10%, #e8445a 49%, #e8445a 49%, #764ac3 91%, #764ac3 91%) !important;
+  filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#fdcd71', endColorstr='#764ac3', GradientType=1);
+}
+
+.insta:hover {
+  background: #764ac3;
+  background: -moz-linear-gradient(45deg, #764ac3 0%, #e8445a 49%, #fdcd71 100%) !important;
+  background: -webkit-linear-gradient(45deg, #764ac3 0%, #e8445a 49%, #fdcd71 100%) !important;
+  background: linear-gradient(45deg, #764ac3 0%, #e8445a 49%, #fdcd71 100%) !important;
+  filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#764ac3', endColorstr='#fdcd71', GradientType=1);
+}
+
+
+/*TITULOS*/
+
+.titulo {
+  color: #2D2D2D;
+  font-weight: bold;
+  text-decoration: underline
+}
+
+
+/*CORES*/
+
+.cor-manilla {
+  background: #B2B2B2
+}
+
+.sec-rede-social {
+  background: #D3C8B4
+}
+
+.promocao {
+  background: #E7E4D5
+}
+
+
+/*FONTS*/
+
+.destaques {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  color: #FFB521 !important
+}
+
+.subdestaque {
+  font-family: 'Lobster', cursive;
+  font-weight: bold;
+  color: #FFF !important
+}
+
+.logo {
+  color: #FFF;
+  font-family: 'Montserrat', sans-serif;
+}
